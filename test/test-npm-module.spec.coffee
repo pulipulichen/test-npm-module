@@ -18,7 +18,6 @@ describe 'test-npm-module', ->
     # api function
     actual = testNpmModule title, name
 
-    console.log "actual", actual
     # output
     actual.should.be.Object
     actual.should.be.has.property "title"
