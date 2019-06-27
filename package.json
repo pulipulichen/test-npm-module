@@ -1,22 +1,29 @@
 {
-  "name": "test-npm-module",
+  "name": "@pulipuli.chen/test-npm-module",
   "version": "1.0.0",
   "description": "Awesome module",
   "keywords": [
     "keyword1",
     "keyword2"
   ],
-  "homepage": "https://github.com/smlsunxie/test-npm-module",
-  "bugs": "https://github.com/smlsunxie/test-npm-module/issues",
+  "homepage": "https://github.com/pulipulichen/test-npm-module",
+  "bugs": "https://github.com/pulipulichen/test-npm-module/issues",
   "author": {
     "name": "Smlsun Xie",
     "email": "smlsun@gmail.com",
     "url": "https://github.com/smlsunxie"
   },
+  "contributors": [
+    {
+      "author": "Pulipuli Chen",
+      "email": "blog@pulipuli.info",
+      "url": "http://blog.pulipuli.info/"
+    }
+  ],
   "main": "./lib/test-npm-module.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/smlsunxie/test-npm-module.git"
+    "url": "https://github.com/pulipulichen/test-npm-module.git"
   },
   "scripts": {
     "test": "gulp test"
