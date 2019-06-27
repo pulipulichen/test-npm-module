@@ -6,8 +6,8 @@
     "keyword1",
     "keyword2"
   ],
-  "homepage": "https://github.com/pulipulichen/test-npm-module",
-  "bugs": "https://github.com/pulipulichen/test-npm-module/issues",
+  "homepage": "https://github.com/smlsunxie/test-npm-module",
+  "bugs": "https://github.com/smlsunxie/test-npm-module/issues",
   "author": {
     "name": "Smlsun Xie",
     "email": "smlsun@gmail.com",
@@ -23,7 +23,7 @@
   "main": "./lib/test-npm-module.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pulipulichen/test-npm-module.git"
+    "url": "https://github.com/smlsunxie/test-npm-module.git"
   },
   "scripts": {
     "test": "gulp test"
