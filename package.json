@@ -1,5 +1,5 @@
 {
-  "name": "@pulipuli.chen/test-npm-module",
+  "name": "test-npm-module",
   "version": "1.0.1",
   "description": "Awesome module",
   "keywords": [
